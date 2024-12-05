@@ -1,0 +1,12 @@
+﻿asgiref
+colorama
+Django
+django-cors-headers
+django-debug-toolbar
+djangorestframework
+djangorestframework-simplejwt
+pillow
+PyJWT
+qrcode
+sqlparse
+tzdata
